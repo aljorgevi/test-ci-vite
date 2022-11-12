@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "cypress": "^11.0.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
